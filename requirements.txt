@@ -1,0 +1,16 @@
+# Base Python
+python==3.11
+
+# Jupyter + Kernels
+notebook
+ipykernel
+
+# spaCy and language models
+spacy==3.7.4
+de-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-3.7.0/de_core_news_sm-3.7.0-py3-none-any.whl
+
+# Numpy compatible
+numpy==1.26.4
+
+# Optional (handy for language detection or other tasks)
+langdetect
