@@ -11,9 +11,9 @@ This script currently only supports Spanish & German fully, but the spaCy librar
 
 
 ## FUTURE IMPROVEMENTS
-- adding a category tag for each sentence
-- creating word clouds (for categories such as family & friends, outside & sports, cooking, etc.)
--  change educalingo dictionary to web scraping an actual dictionary for better definitions and articles for nouns?
-- add article & plural of noun - create new function that finds it based on language (key = lang & gender, value = der, die, das or el, la, etc.)
-- extend the verb definition to include tense -> go deeper into spaCy lemmatization
+- Adding a category tag for each sentence
+- Creating word clouds (for categories such as family & friends, outside & sports, cooking, etc.)
+- Change educalingo dictionary to web scraping an actual dictionary for better definitions and articles for nouns?
+- Add article & plural of noun - create new function that finds it based on language (key = lang & gender, value = der, die, das or el, la, etc.)
+- Extend the verb definition to include tense -> go deeper into spaCy lemmatization
 
