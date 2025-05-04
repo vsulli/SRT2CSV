@@ -1,0 +1,90 @@
+﻿1
+00:00:00,000 --> 00:00:01,320
+<font color=#ffffff>.</font>
+
+2
+00:00:40,000 --> 00:00:42,480
+<font color=#ffffff>(Motor wird angelassen)</font>
+
+3
+00:00:48,800 --> 00:00:51,960
+<font color=#ffffff>Herr Landsberger?</font>
+<font color=#ffffff>Motor abstellen! </font>
+
+4
+00:00:53,440 --> 00:00:57,960
+<font color=#ffffff>Motorhaube und Kofferraum öffnen,</font>
+<font color=#ffffff>Sitzbank anheben!</font>
+
+5
+00:01:05,720 --> 00:01:08,520
+<font color=#ffffff>Machen Sie den Koffer auf!</font>
+
+6
+00:01:37,200 --> 00:01:39,560
+<font color=#ffffff>Die Sitzbank, bitte!</font>
+
+7
+00:01:40,480 --> 00:01:42,320
+<font color=#ffffff>Das Kind schläft.</font>
+
+8
+00:01:44,760 --> 00:01:48,080
+<font color=#ffffff>Und außerdem geht es ihm nicht gut.</font>
+
+9
+00:01:49,120 --> 00:01:50,760
+<font color=#ffffff>Handschuhfach!</font>
+
+10
+00:02:34,200 --> 00:02:36,720
+<font color=#ffffff>Danke.</font>
+<font color=#ffffff>Gute Fahrt!</font>
+
+11
+00:02:50,760 --> 00:02:54,760
+<font color=#ffffff>(nicht hörbar)</font>
+
+12
+00:04:11,440 --> 00:04:14,200
+<font color=#ffffff>Hörst du noch?</font>
+<font color=#ffffff>Also ...</font>
+
+13
+00:04:15,360 --> 00:04:22,000
+<font color=#ffffff>"Ärmliche ... Nee, förmliche Anfrage</font>
+<font color=#ffffff>des Generalstaatsanwalts der DDR</font>
+
+14
+00:04:22,200 --> 00:04:25,920
+<font color=#ffffff>an die Strafverfolgungsbehörde</font>
+<font color=#ffffff>der BRD."</font>
+
+15
+00:04:26,080 --> 00:04:28,720
+<font color=#ffffff>"Auf einem Rastplatz bei Leipzig</font>
+
+16
+00:04:28,760 --> 00:04:31,800
+<font color=#ffffff>fand man einen toten</font>
+<font color=#ffffff>5-jährigen Jungen.</font>
+
+17
+00:04:31,960 --> 00:04:35,880
+<font color=#ffffff>Keine Verletzungen</font>
+<font color=#ffffff>oder besondere Kennzeichen."</font>
+
+18
+00:04:36,040 --> 00:04:40,200
+<font color=#ffffff>Hier, lies doch mal!</font>
+<font color=#ffffff>- Moment, bitte.</font>
+
+19
+00:04:42,120 --> 00:04:47,480
+<font color=#ffffff>" ... trug das Kind DDR-Kleidung,</font>
+<font color=#ffffff>aber Schuhe aus der BRD."</font>
+
+20
+00:04:47,640 --> 00:04:51,320
+<font color=#ffffff>Was geht uns das an?</font>
+<font color=#ffffff>- Lies weiter!</font>

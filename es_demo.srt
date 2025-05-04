@@ -1,0 +1,89 @@
+﻿1
+00:00:02,700 --> 00:00:05,020
+(Viento)
+
+2
+00:00:08,340 --> 00:00:10,900
+(Música new age)
+
+3
+00:00:33,060 --> 00:00:34,700
+(Pájaros)
+
+4
+00:00:44,060 --> 00:00:44,940
+<c.vtt_magenta>Buenos días.</c>
+
+5
+00:00:51,740 --> 00:00:53,300
+<c.vtt_magenta>¿Has dormido bien?</c>
+
+6
+00:00:55,579 --> 00:00:57,540
+(Canta un gallo)
+
+7
+00:01:05,980 --> 00:01:08,620
+<c.vtt_magenta>No quiero que sea lunes.</c>
+
+8
+00:01:09,580 --> 00:01:11,460
+¡Está nevando! ¡Está nevando!
+
+9
+00:01:13,260 --> 00:01:14,260
+<c.vtt_red>¡Hala!</c>
+
+10
+00:01:14,460 --> 00:01:16,540
+<c.vtt_magenta>Buenos días.
+Buenos días.</c>
+
+11
+00:01:16,700 --> 00:01:20,060
+Papá, date prisa. Quiero llegar antes
+al cole para jugar con la nieve.
+
+12
+00:01:20,220 --> 00:01:22,739
+<c.vtt_red>¿Me puedo duchar antes?
+¡No!</c>
+
+13
+00:01:22,900 --> 00:01:25,620
+<c.vtt_magenta>Papá se ducha
+y nosotras preparamos el desayuno.</c>
+
+14
+00:01:25,780 --> 00:01:28,020
+<c.vtt_magenta>Ve a ducharte, venga.
+Bueno, venga, va.</c>
+
+15
+00:01:28,180 --> 00:01:30,140
+<c.vtt_red>¿Me estáis echando de la cama?
+</c><c.vtt_magenta>¡Fuera!</c>
+
+16
+00:01:30,300 --> 00:01:32,100
+¡Venga, dormilón!
+<c.vtt_red>¡A sus órdenes!</c>
+
+17
+00:01:32,620 --> 00:01:35,460
+<c.vtt_magenta>Ana se ha empeñado
+en que avise a Lucía.</c>
+
+18
+00:01:35,620 --> 00:01:37,700
+<c.vtt_magenta>Álvaro las lleva al cole, ¿vale?</c>
+
+19
+00:01:37,860 --> 00:01:39,860
+<c.vtt_magenta>No, tranquila,
+aún nos queda un poquito.</c>
+
+20
+00:01:40,020 --> 00:01:42,580
+<c.vtt_magenta>Vale, os esperamos aquí.
+Venga, un besito.</c>

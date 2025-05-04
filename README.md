@@ -1,8 +1,19 @@
 # SRT2CSV
-Read in a .srt file, clean the data, and export to a .csv file for upload to ANKI
+Read in a .srt file, clean the data, and export to a .csv file for upload to ANKI. 
+This script currently only supports Spanish & German fully, but the spaCy library and PyMultiDictionary offer support for various other languages. 
 
-TODO
 
-- add numbers to stop word list
-- add a category tag for each sentence
-- create word clouds (for categories such as family & friends, outside & sports, kitchen, etc.)
+## NOTES / LIMITATIONS
+
+- Notepad++ convert ANSI to UTF-8 for special characters
+- Seems to need to be UTF-8 BOM in order to preserve special characters
+- Hinglish doesn't have an official language code
+
+
+## FUTURE IMPROVEMENTS
+- adding a category tag for each sentence
+- creating word clouds (for categories such as family & friends, outside & sports, cooking, etc.)
+-  change educalingo dictionary to web scraping an actual dictionary for better definitions and articles for nouns?
+- add article & plural of noun - create new function that finds it based on language (key = lang & gender, value = der, die, das or el, la, etc.)
+- extend the verb definition to include tense -> go deeper into spaCy lemmatization
+
