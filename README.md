@@ -2,6 +2,9 @@
 Read in a .srt file, clean the data, and export to a .csv file for upload to ANKI. 
 This script currently only supports Spanish & German fully, but the spaCy library and PyMultiDictionary offer support for various other languages. 
 
+## USAGE
+(1) The original .srt file includes the subtitle number, the start and end times, and other features such as tags that will need to be removed. 
+![es_srt](Screenshots/(1) es_demo_srt_pt1.PNG)
 
 ## NOTES / LIMITATIONS
 
