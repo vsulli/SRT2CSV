@@ -6,7 +6,7 @@ This script currently only supports Spanish & German fully, but the spaCy librar
 (1) The original .srt file includes the subtitle number, the start and end times, and other features such as tags that will need to be removed. 
 <img
 src=“Screenshots/1_es_demo_srt_pt1.PNG”
-raw=true
+raw=false
 alt=“es_srt”/>
 [es_srt](Screenshots/1_es_demo_srt_pt1.PNG)
 
