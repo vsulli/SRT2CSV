@@ -4,6 +4,7 @@ This script currently only supports Spanish & German fully, but the spaCy librar
 
 ## USAGE
 (1) The original .srt file includes the subtitle number, the start and end times, and other features such as tags that will need to be removed. 
+<img src="Screenshots/1_es_demo_srt_pt1.PNG" alt="Alt text" width="300" height="200">
 ![Alt text](Screenshots/1_es_demo_srt_pt1.PNG)
 
 ## NOTES / LIMITATIONS
