@@ -57,7 +57,7 @@ No quiero que sea <mark><b>lunes</b></mark>. | lunes [Noun]:En el diccionario ca
 
 <img src="Screenshots/13_find_word.PNG" alt="Alt text" width="50%"/>
 
-(12) The Educalingo dictionary defaults to a mix of English and the target language definitions. For my purposes I only wanted to see the definition in the target language. 
+(12) The Educalingo dictionary defaults to a mix of English and the target language's definitions. For my purposes I only wanted to see the definition in the target language. 
 
 <img src="Screenshots/14_example_definitions.PNG" alt="Alt text" width="50%"/>
 
