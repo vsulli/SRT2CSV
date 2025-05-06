@@ -3,7 +3,7 @@ Read in a .srt file, clean the data, and export to a .csv file for upload to ANK
 
 This script currently only supports Spanish & German fully, but the spaCy library and PyMultiDictionary offer support for various other languages. The main purpose of this project was to create an easier workflow that would allow me to take the subtitle files for shows that I watch and quickly identify the words that I don't know to expand my ANKI deck. Individual word tokens are extracted from each row of a dataframe and, if they do not already appear in a "stop word" file, will be added to a csv file in the format: 
 
-original_subtitle_sentence with bolded and highlighted word | word [pos] : definition | tags
+original subtitle sentence with bolded and highlighted word | word [pos] : definition | tags
 
 Example Output:
 
