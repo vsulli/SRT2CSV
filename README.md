@@ -87,10 +87,14 @@ No quiero que sea <mark><b>lunes</b></mark>. | lunes [Noun]:En el diccionario ca
 - Notepad++ convert ANSI to UTF-8 for special characters
 - Seems to need to be UTF-8 BOM in order to preserve special characters
 - Hinglish doesn't have an official language code. 
-- On occasion the Educalingo library is unable to find a definition for the word. 
+- On occasion the Educalingo library is unable to find a definition for the word.
+  
   ex) Pájaros [?]:None , Buenos [?]:None
+  
     - This is possibly due to the definition being linked to the stem that is singular as well as a problem with the first letter being uppercase.
-- Perhaps the biggest limitation with the approach of this project is that it does not account for idioms or slang that may combine previously known/stop words that result in a completely different meaning. For this reason I combine a phrase dictionary and book of idioms in my personal studies. 
+      
+- Perhaps the biggest limitation with the approach of this project is that it does not account for idioms or slang that may combine previously known/stop words that result in a completely different meaning. For this reason I combine a phrase dictionary and book of idioms in my personal studies.
+  
   ex) Mi media naranja. ("My better half." - Literally "My half orange.")
     
   
