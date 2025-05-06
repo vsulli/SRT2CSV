@@ -11,7 +11,7 @@ No quiero que sea <mark><b>lunes</b></mark>. | lunes [Noun]:En el diccionario ca
 
 ## USAGE
 (1) The original .srt file includes the subtitle number, the start and end times, and other features such as tags that will need to be removed. 
-<img src="Screenshots/1_es_demo_srt_pt1.PNG" alt="Alt text" width="500" height="500">
+<img src="Screenshots/1_es_demo_srt_pt1.PNG" alt="Alt text" width="50%">
 <img src="Screenshots/2_es_demo_srt_pt2.PNG" alt="Alt text" width="500" height="500">
 
 (2) After loading the subtitles with the pysrt library you get a SubRipFile object. 
