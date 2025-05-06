@@ -5,7 +5,8 @@ This script currently only supports Spanish & German fully, but the spaCy librar
 
 original_subtitle_sentence with bolded and highlighted word | word [pos] : definition | tags
 
-Example Entry:
+Example Output:
+
 No quiero que sea <mark><b>lunes</b></mark>. | lunes [Noun]:En el diccionario castellano lunes significa primer día de la semana, segundo de la semana litúrgica.	| spanish,es,sentence::mining,La Caza,sentence::recognition
 
 
